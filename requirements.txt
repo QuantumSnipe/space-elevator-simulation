@@ -1,0 +1,4 @@
+numpy
+scipy
+matplotlib
+vpython>=7.6
